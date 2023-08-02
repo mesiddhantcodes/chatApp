@@ -26,4 +26,4 @@ To run the chat application locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mesiddhantcodes/socket-io-chat-app.git
+https://github.com/mesiddhantcodes/chatApp.git
